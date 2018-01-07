@@ -7,7 +7,7 @@ Done:
 * Lab1
 * Lab2
 * Lab3
-* Lab5
+* Lab5 (`WAL` implemented, but still `FORCE + NO-STEAL`; logging functionality is tested in unit tests.)
 
 WIP:
 
